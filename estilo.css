@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+.div1{
+    background-color: #23b4eb;
+    text-align: center;
+    height: 50px;
+}
+.div1 a{
+    color: aliceblue;
+    padding-left: 15px;
+    font-size: large;
+    padding-top: 15px;
+}
+.div3 h1, h2, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.div3, .div4{
+    margin-left: 15%;
+    margin-right: 15%;
+    text-align: justify;
+}
+
+.img2{
+width: 1100px;
+}
+.div1{
+    height:
+}
+
+.div4 h1, h2, p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+
+.div4 a{
+    background-color: #23b4eb;
+    padding-left: 15px;
+    color: aliceblue;
+    font-size: large;
+}
